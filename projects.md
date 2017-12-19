@@ -4,10 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-Below you will find a list of projects I am involved with.
+Cool projects I contributed (a little) to:
 
-* [Hello World](https://www.github.com/Spoker/hello-world)
-* [Money Manager Ex](https://github.com/moneymanagerex/moneymanagerex)
+* [Money Manager Ex general reports](https://github.com/moneymanagerex/general-reports)
 * [Money Manager Ex Android app](https://github.com/moneymanagerex/android-money-manager-ex)
 * ...
 
