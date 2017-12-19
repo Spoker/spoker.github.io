@@ -1,6 +1,15 @@
 ---
 layout: post
-title: Up and running
+title: New posts
 ---
 
-This is a first post using Jekyll. If all goes well, I'll use this site as a landing page for all future projects.
+This is a test.
+
+## Heading 2
+Test heading 2
+
+### Heading 3
+This is a test with heading 3
+
+* bullet point 1
+* bullet point 2
