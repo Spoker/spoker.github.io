@@ -3,15 +3,5 @@ layout: post
 title: New posts
 ---
 
-This is a test.
-
-# Heading 2
-
-Test heading 2
-
-## Heading 3
-
-This is a test with heading 3
-
-- bullet point 1
-- bullet point 2
+## Let's go
+As we're now up-and-running, I'll use this site as a starting page for other projects I come across while learning new coding skills.
